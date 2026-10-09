@@ -225,7 +225,7 @@ Antes do aceite, conferir:
 - [ ] Delivery validado, quando contratado.
 - [ ] Certificado e NFC-e testados.
 - [ ] Fidelidade validada, quando contratada.
-- [ ] Produtos e preços iniciais conferidos e entregues pela equipe GCWeb.
+- [ ] Produtos e preços iniciais conferidos e entregues pela equipe GCWeb, com taras quando controlado por balança.
 - [ ] Tributação revisada.
 - [ ] Colaboradores e permissões conferidos.
 - [ ] Pendências, evidências e responsáveis registrados.
