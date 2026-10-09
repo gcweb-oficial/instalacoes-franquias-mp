@@ -26,6 +26,7 @@ Os outros arquivos deste repositório complementam o guia com:
 ### `Documentação/`
 
 - `GUIA_IMPLANTACAO_FRANQUIA.md`: roteiro principal da implantação e ponto de partida para quem executará a configuração da unidade.
+- `CHECKLIST_IMPLANTACAO_FRANQUIA.md`: marcadores resumidos para categorizar e acompanhar todas as configurações da implantação.
 - `Documentação GCWebPrinter - Impressora.docx`: instalação do certificado, inicialização automática, seleção da impressora, configuração do arquivo `hosts` e validação do serviço.
 - `Documentação GCWebRequest - Balança.docx`: identificação da porta COM, instalação do GCWebRequest, teste da balança e validação no GCWeb.
 
